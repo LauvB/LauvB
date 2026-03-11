@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Laura Beltrán 👋
 
-<!--
-**LauvB/LauvB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Graduate  
+💻 Interested in Web Development and Data Analysis  
+🌎 Based in Colombia  
 
-Here are some ideas to get you started:
+I enjoy building web applications and learning new technologies. My experience includes frontend development with modern tools like React and TypeScript, as well as working with databases and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, Java, Python
+- **Frontend:** React, HTML5, CSS, Tailwind
+- **Backend:** Node.js, Next.js
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Vite, Prisma
+
+---
+
+## 📊 Currently Learning
+
+- Data analysis with Python
+- Machine learning basics
+- Improving frontend development skills
